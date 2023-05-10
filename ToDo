@@ -1,0 +1,15 @@
+Create GitHub repository for code base development and collaboration. 
+
+Flask Application Setup - create a Flask app and set up basic routes for login, reporting bad customer experience, and searching through previous reports. You can use Flask-Login to handle user authentication and Flask-WTF to handle form validation.
+
+Database Setup - set up a database to store customer feedback. You can use SQLite or PostgreSQL. Define the schema for your database and create the necessary tables to store the data.
+
+User Authentication - add a user authentication system to your Flask app so that users can log in to report a bad customer experience or search through previous reports. You can use Flask-Login to handle user authentication.
+
+Report Bad Customer Experience - create a form that allows users to report a bad customer experience. The form should require a name, address, and damages field. When the form is submitted, store the data in the database.
+
+Search through Previous Reports - create a search form that allows users to search through previously reported customer experiences. The search form should allow users to search by name or address. When the search form is submitted, retrieve the relevant data from the database and display it on the page.
+
+Package the Application - package the application in a way that makes it usable on different platforms. You can use a web framework like Bootstrap to make the app responsive and easily usable on different devices.
+
+Deploy the Application - deploy the application on a web server or a cloud-based platform like Linode or Heroku so that users can access it from anywhere.
